@@ -1,0 +1,128 @@
+1---> ADDITION OF TEN NUMBERS
+  1 --> Simple Addition of 10 numbers
+ 2 --> Simple Subtraction (1st Number - 2nd Number)
+ 3 --> Simple Multiplication
+ 4-->finding the minimum of two numbers using jump
+ 5-->Divison of two numbers
+Tell us what you wanna do: 1
+Number 1: 2
+Number 2: 3
+Number 3: 4
+Number 4: 5
+Number 5: 6
+Number 6: 7
+Number 7: 8
+Number 8: 9
+Number 9: 10
+Number 10: 11
+LOAD  0
+NEW IR IS  5     
+NEW MaR IS 1     
+We are adding now
+PC is 0
+WE are adding now
+NEW IR IS  5     
+NEW MaR IS 3     
+We are adding now
+PC is 1
+WE are adding now
+NEW IR IS  5     
+NEW MaR IS 5     
+We are adding now
+PC is 2
+WE are adding now
+NEW IR IS  5
+NEW MaR IS 7
+We are adding now
+PC is 3
+WE are adding now
+NEW IR IS  5
+NEW MaR IS 9
+We are adding now
+PC is 4
+ac is 65
+output is 65
+NEW IR IS  0
+NEW MaR IS 0
+HALT
+
+2--> SUBTRACTION
+ 1 --> Simple Addition of 10 numbers
+ 2 --> Simple Subtraction (1st Number - 2nd Number)
+ 3 --> Simple Multiplication
+ 4-->finding the minimum of two numbers using jump 
+ 5-->Divison of two numbers
+Tell us what you wanna do: 2
+Number 1 is 3
+Number 2 is 4
+LOAD  0
+NEW IR IS  6
+NEW MaR IS 1
+we are subtracting now
+PC is 0
+ac is -1
+output is -1
+NEW IR IS  0
+NEW MaR IS 0
+HALT
+
+3-->multiplication
+1 --> Simple Addition of 10 numbers
+ 2 --> Simple Subtraction (1st Number - 2nd Number)
+ 3 --> Simple Multiplication
+ 4-->finding the minimum of two numbers using jump 
+ 5-->Divison of two numbers
+Tell us what you wanna do: 3
+Number 1: 2
+Number 2: 3
+NEW IR IS  11
+NEW MaR IS 1
+PC is 0
+product is 6
+NEW IR IS  0
+NEW MaR IS 0
+HALT
+4-->COmparing two numbers
+
+ 1 --> Simple Addition of 10 numbers
+ 2 --> Simple Subtraction (1st Number - 2nd Number)
+ 3 --> Simple Multiplication
+ 4-->finding the minimum of two numbers using jump
+ 5-->Divison of two numbers
+Tell us what you wanna do: 4
+Number 1: 2
+Number 2: 3
+LOAD  0
+NEW IR IS  6
+NEW MaR IS 1
+we are subtracting now
+PC is 0
+AC IS 2
+NEW IR IS  13
+NEW MaR IS 3
+ac is 2
+output is 2
+NEW IR IS  0
+NEW MaR IS 0
+HALT
+
+5-->Divison of two numbers
+ 1 --> Simple Addition of 10 numbers
+ 2 --> Simple Subtraction (1st Number - 2nd Number)
+ 3 --> Simple Multiplication
+ 4-->finding the minimum of two numbers using jump 
+ 5-->Divison of two numbers
+Tell us what you wanna do: 5
+Number 1: 6
+Number 2: 4
+LOAD  0
+NEW IR IS  12
+NEW MaR IS 1
+PC is 0
+output is 1
+NEW IR IS  0
+NEW MaR IS 0
+HALT
+6-->
+
+
